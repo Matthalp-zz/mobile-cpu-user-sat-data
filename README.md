@@ -1,5 +1,25 @@
 ## Mobile CPU User Satisfaction Data
 
+## Conditions of Use
+
+Cite the [paper](http://ieeexplore.ieee.org/document/7446054/) whenever you use this data in any publication or presentation.
+
+The BiBTex is provided below for convenience:
+
+```
+@inproceedings{halpern2016mobile,
+  title={Mobile CPU’s Rise to Power: Quantifying the Impact of
+         Generational Mobile CPU Design Trends on Performance,
+         Energy, and User Satisfaction},
+  author={Halpern, Matthew and
+          Zhu, Yuhao and
+          Janapa Reddi, Vijay},
+  booktitle={High Performance Computer Architecture (HPCA),
+             2016 IEEE 22nd International Symposium on},
+  year={2016}
+}
+```
+
 ### Introduction
 
 The data in this spreadsheet is a companion to the paper:
@@ -20,26 +40,6 @@ The data is presented as a CSV with the following columns:
 | cpu_cores   | CPU cores enabled (1, 2, 3, 4)               |
 | cpu_freq    | CPU frequency in MHz <br/> (422.4, 729.6, 1036.8, 1497.6, 1958.4, 2457.6) |   
 | gpu_freq    | GPU frequency in MHz <br/> (200, 320, 389, 462.4, 578) |
-
-## Conditions of Use
-
-Cite the [paper](http://ieeexplore.ieee.org/document/7446054/) whenever you use this data in any publication or presentation.
-
-The BiBTex is provided below for convenience:
-
-```
-@inproceedings{halpern2016mobile,
-  title={Mobile CPU’s Rise to Power: Quantifying the Impact of
-         Generational Mobile CPU Design Trends on Performance,
-         Energy, and User Satisfaction},
-  author={Halpern, Matthew and
-          Zhu, Yuhao and
-          Janapa Reddi, Vijay},
-  booktitle={High Performance Computer Architecture (HPCA),
-             2016 IEEE 22nd International Symposium on},
-  year={2016}
-}
-```
 
 ## Methodology
 
