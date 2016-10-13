@@ -53,3 +53,14 @@ Equipment Specifications
 | System-on-Chip | Qualcomm Snapdragon 8930AB  |
 | CPU            | Quad-core 2.5 GHz Krait 400 |
 | GPU            | 578 MHz Adreno 330          |
+
+## Research Using this Dataset
+
+```
+Probabilistic Modeling for Crowdsourcing Partially-Subjective Ratings
+An T. Nguyen, Matthew Halpern, Byron C. Wallace and Matthew Lease
+AAAI HCOMP 2016
+```
+
+Source code for this work can be found at: https://github.com/thanhan/subjective-crowd-hcomp16.git
+
